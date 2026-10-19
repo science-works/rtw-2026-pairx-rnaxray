@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [Vicky-0256/RNAxRAY](https://github.com/Vicky-0256/RNAxRAY).**
+>
+> Submitted version: [`b5d590f`](https://github.com/science-works/rtw-2026-pairx-rnaxray/tree/b5d590f9aff9c438ddbb683d91ddda363f732240). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="web/assets/rnaxray-wordmark-dark.svg">
